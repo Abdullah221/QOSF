@@ -1,0 +1,32 @@
+.text-primary {
+    color: #338ccc !important;
+}
+.bg-primary {
+    background-color: #338ccc !important;
+}
+.bg-secondary {
+    background-color: #c72f28 !important;
+}
+footer a {
+    text-decoration: none;
+    color: #fff;
+    list-style: none;
+}
+.nav-optins {
+    color: white !important;
+}
+.navLogo img {
+    width: 100px;
+}
+.bg-img {
+    background: url(img/backgroundForSection.png) no-repeat;
+    background-size: cover;
+}
+.card-img-overlay {
+    opacity: 0;
+}
+.card-img-overlay:hover {
+    background-color: #338ccc;
+    transition: 1s;
+    opacity: 100;
+}
