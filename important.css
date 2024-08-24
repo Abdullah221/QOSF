@@ -1,3 +1,6 @@
+* {
+    font-size: 20px;
+}
 .text-primary {
     color: #338ccc !important;
 }
@@ -19,6 +22,12 @@
 }
 .bg-secondary {
     background-color: #c72f28 !important;
+}
+.LinkedHeading {
+    text-decoration: none;
+}
+.card {
+    border: none !important;
 }
 footer a {
     text-decoration: none;
